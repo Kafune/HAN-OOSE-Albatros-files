@@ -34,7 +34,7 @@ out/
 .DS_Store
 
 ##########################
-## VS code
+## VS code 
 ##########################
 .vscode/*
 !.vscode/settings.json
