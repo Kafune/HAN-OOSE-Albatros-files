@@ -1,7 +1,1 @@
-# Team Albatros !
-
-mail check
-
-patrick check
-
-niels
+# Malkander Ede
