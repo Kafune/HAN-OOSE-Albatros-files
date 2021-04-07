@@ -34,6 +34,19 @@ out/
 .DS_Store
 
 ##########################
+## VS code
+##########################
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+##########################
 ## Other
 ##########################
 *.aux
