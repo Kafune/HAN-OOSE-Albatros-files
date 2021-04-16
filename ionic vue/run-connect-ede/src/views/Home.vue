@@ -87,7 +87,8 @@ export default defineComponent({
         .then((resp) => {
           this.latitude = resp.coords.latitude;
           this.longitude = resp.coords.longitude;
-          console.log(resp.coords);
+          console.log(resp)
+          console.log(JSON.stringify(resp));
           return resp.coords;
         })
         .catch((error) => {
